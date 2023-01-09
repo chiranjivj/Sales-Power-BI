@@ -1,7 +1,7 @@
-# Power BI Project: Revenue by Country and Gender
+# Power BI Project: Sales by Country and Gender
 
 
-This Power BI project provides insights on revenue by country and gender. It includes the following visualizations:
+This Power BI project provides insights on sales by country and gender. It includes the following visualizations:
 
 Pie chart of region split by revenue
 Bar chart of sales by all reps
